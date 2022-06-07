@@ -1,5 +1,4 @@
-<h1 align="center"> Olá!! Eu sou o Bruno Leandro </h1>
-<h2 align="center"> Desenvolvedor Full Stack - Ruby on Rails </h2>
+<h2 align="center"> Olá!! Eu me chamo Bruno Leandro e sou um Desenvolvedor Full Stack - Ruby on Rails</h2>
 
 ---
 
