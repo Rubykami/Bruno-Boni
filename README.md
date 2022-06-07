@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg", height="50em", width="50em"/>    
     
     
-    ![Snake animation](https://github.com/Bruno-Boni/Bruno-Boni/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Bruno-Boni/Bruno-Boni/blob/output/github-contribution-grid-snake.svg)
     
 </div>
 
